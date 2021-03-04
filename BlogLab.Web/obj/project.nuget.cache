@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BVX5EPav3rc69hFCFC9brD42MUyY2EWfID9aVXWIPE51wtv9eOwByujPhLybTlHs8nOXj9S0TYBDBx138saxBA==",
+  "dgSpecHash": "ORJZn4MzB5u8HGsSEhxWamtUbTGGe6BTGx/Nw+hoJlXkr6PG4zMqmECPue89Gi2i1aAftdvePOqNIIhDlUr4mQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\tanis\\Desktop\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tanis\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512"
+  ],
   "logs": []
 }
